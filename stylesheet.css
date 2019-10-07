@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+.searchbox {
+  width:1000px;
+  background-color:
+}
+#search {
+  background-color: red;
+  color:white;
+}
+#join {
+  background-color:white;
+  
+}
+#build a{
+  text-decoration:none;
+  list-style: none;
+  color: white;
+}
+#login {
+  background-color:white;
+  border: none;
+}
+#plans {
+  background-color: #FB3B49;
+  color:white;
+  text-align: center;
+  box-shadow: ;
+   margin-left: 500px;
+  padding:20px;
+  width: 200px;
+}
+#joinbold{
+  background-color:rgba(232,217,217,.3);
+  font-weight:bold;
+  color: black; 
+  
+}
+
+.pink-background{
+  background-color: rgba(232,217,217,.3);
+  color: black;
+  height:400px;
+}
+.logo {
+  text-align:center;
+}
+.transformtext {
+  transform: skew(9deg,0deg);
+  background-color:rgba(255,204,53,.4);
+  width: 700px;
+  margin-left: 300px;
+}
+.title {
+  text-align:center;
+  font-size: 4em;
+}
+.line {
+  text-align:center;
+}
+#redtext {
+  color:red;
+}
+#create {
+  background-color:black;
+  color:white;
+  padding:20px;
+  width: 400px;
+  text-align: center; 
+  margin-top: 10px;
+  margin-left: 500px;
+  
+}
+header > div {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+nav {
+  width: 600px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.final ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+
+.final {
+  text-align:center;
+}
+
+
+
